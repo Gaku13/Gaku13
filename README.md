@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub Logo](/Profile.png)
+Format: ![Alt Text](url)
+
 <!--
 **Gaku13/Gaku13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
